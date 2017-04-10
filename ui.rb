@@ -82,7 +82,6 @@ def desenhar_forca(erros)
     puts " |              "
     puts "_|___           "
     puts
-
 end
 
 def avisa_escolhendo_palavra
